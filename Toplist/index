@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet type="text/css" href="style.css">
+	<title>Helena's Notes on the Introduction to PRogramming</title>
+</head>
+<body>
+	<h1 class="title">Helena's Notes on the Introduction to Programming</h1>
+	<div class="app">
+    	<div class="image"><img src="image/app.png"></div>
+    	<div class="Table of Contents">
+    		<h1 class="title">Table of Contents</h1>
+    		<p><b>I. The World Wide Web</b>
+    		</p>
+    		<p><b>II. HTML, Tags + Elements</b>
+    		</p>
+    		<p><b>III. Structure of the HTML Document</b>
+    		</p>
+    		<p><b>IV. Creating Your Own Webpage</b>
+    		</p>
+		</div>
+	</div>
+	<div class="description">
+		    <b>I. The World Wide Web</b>
+    		<p>The World Wide Web is a collection of HTML documents. HTML is the acronym for "Hypertext Markup Language". There are millions of HTML documents currently in the web. However, all types of files can be found on the web, including video, images, etc. 
+    		</p>
+    		<p>There are four main components of the web process:
+    		<br> Browser- <em>A program that runs on the computer to display files from the web.Some examples include Internet Explorer, Firefox, and Chrome.</em>
+            <br> Internet- <em>The world's largest computer network.</em>
+            <br> Servers- <em>Computers that host the files that make up the web.</em>
+            <br> HTTP- <em>The main protocal of the web.</em>
+            </p>
+
+            <b>II. HTML, Tags, and Elements</b>
+            <p>HTML (Hypertext Markup Language) is made up of the following:
+            <br> Text Contet- <em> What you see</em>
+            <br> Markup- <em> What it looks like </em>
+            <br> References to Other Documents- <em> images, vieods </em>
+            <br> Links to Other Pages
+            </p>
+
+            <p>
+  			The standard exmple of an HTML Markup contains an opening and closing tag, 
+  			with contents located within. This is usually referred to as an element.
+ 		    <br> <b> "Opening Tag" </b> --> <em> Contents </em> --> <b> "Closing Tag" </b></p>
+
+ 		    <p>
+			HTML elements are categorized as either <b>Inline </b> or <b> Block </b>. 
+  			The main difference between them is that block elements apply "boxes" 
+ 		    around the content (text) while also factoring in height and width. 
+			</p>
+
+			<b>III. Structure of an HTML Document</b>
+			<p>The HTMLs documents are usually structured in the following way:
+			</p>
+			<p>
+ 		    Section 1- The <b>Head</b>, which will contain the title of the document
+ 		    <br> Section 2- The <b>Body</b>, which will contain the main contents of the document
+			</p>
+
+			<b>IV. Creating Your Own Webpage</b>
+			<p>Creating a webpage is similar to building a house. You have the walls and rooms as the building blocks. The HTML makes up the accents of the home, whether it's the color of the carpets or the type of furniture you put in. Java Script is the interactive portion of the home, which could be the garage openers, the electronics, etc. In the making of the webpage, users usually work with HTML, whcih is the standard markup language used to create the pages; and CSS, which is the cascading style sheets used to describe the look and formatting of the documents. 
+			</p>
+	</div>
+</body>
+</html>
